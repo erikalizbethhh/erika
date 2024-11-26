@@ -9,4 +9,8 @@
  */
 public class Erika {
     public String nombre;
+    //erika lixbeth 
+    
+    
+    public double precio;
 }
